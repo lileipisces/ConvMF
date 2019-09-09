@@ -7,7 +7,9 @@ Each line in the input text is formatted as:
 
 **user::item::rating::word1 word2 word3**
 
-Example: **BCB7302F3A2AD466E27937439CF8AF8C::305921::5::ask for a view of the harbour ! 14th floor was very quiet . come to the kowloon side .**
+Example:
+
+**BCB7302F3A2AD466E27937439CF8AF8C::305921::5::ask for a view of the harbour ! 14th floor was very quiet . come to the kowloon side .**
 
 Original paper:
 
